@@ -1,0 +1,30 @@
+.faq-container{
+    max-width: 72rem;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2.5rem 1.5rem;
+    background-color: #f3f4f6;
+}
+
+.faq-header{
+    font-size: 1.875rem;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+.faq-questions{
+    margin-top: 1rem;
+}
+
+.faq-details{
+    padding: 1rem;
+    margin: 1rem;
+    background-color: white;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.faq-summary{
+    font-weight: bold;
+}

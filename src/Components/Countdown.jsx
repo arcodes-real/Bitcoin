@@ -7,6 +7,9 @@ export default function Countdown() {
     const [hour, setHour] = useState(0)
     const [minute, setMinute] = useState(0)
     const [second, setSecond] = useState(0)
+
+
+    
   return (
     <div className='countdown-container'>
       <h1 className='header'>Bitcoin Halving Countdown</h1>
