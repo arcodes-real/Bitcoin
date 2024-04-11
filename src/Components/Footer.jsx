@@ -47,6 +47,9 @@ export default function Footer() {
         </form>
         <button className='ftr-button'>Subscribe</button>
         </div>
+        <div>
+        <span className='reservation'>© 2022-2023 nordL. All rights reserved.</span>
+        </div>
     </div>
   )
 }

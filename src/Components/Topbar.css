@@ -2,7 +2,8 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #071b2f;
+    /* background: linear-gradient(135deg, #4a94d9a4, #0771ea); */
+    background: linear-gradient(135deg,  #8860D0, #5AB9EA, #5680E9, #84CEEB);
     padding: 1.5rem 3rem;
 }
 

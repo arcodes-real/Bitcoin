@@ -6,10 +6,11 @@ import Faq from "./Components/Faq";
 import Footer from "./Components/Footer";
 
 function App() {
+  const targetDate = '2024-04-18T00:00:00'
   return (
     <>
       <Topbar />
-      <Countdown />
+      <Countdown targetDate = {targetDate} />
       <Card />
       <Faq />
       <Footer />
