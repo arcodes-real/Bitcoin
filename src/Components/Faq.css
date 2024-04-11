@@ -1,5 +1,5 @@
 .faq-container{
-    max-width: 72rem;
+    max-width: 100%;
     margin-left: auto;
     margin-right: auto;
     padding: 2.5rem 1.5rem;
@@ -18,8 +18,8 @@
 }
 
 .faq-details{
-    padding: 1rem;
-    margin: 1rem;
+    padding: 1.5rem;
+    margin: 1rem 3rem;
     background-color: white;
     border-radius: 0.5rem;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -27,4 +27,5 @@
 
 .faq-summary{
     font-weight: bold;
+    font-size: 18px;
 }
