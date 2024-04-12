@@ -51,6 +51,7 @@ export default function Footer() {
         <span className='reservation'>© 2022-2023 nordL. All rights reserved.</span>
         </div>
     </div>
+    
   )
 }
 
